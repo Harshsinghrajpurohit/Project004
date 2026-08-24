@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -166,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Harshsinghrajpurohit/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
